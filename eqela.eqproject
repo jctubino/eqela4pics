@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Eqelapics
+#
+
+projectname: Eqelapics
+vendorid: com.tubino
+mainmodule: com.tubino.eqelapics
